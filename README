@@ -1,0 +1,22 @@
+Monsters and Mushrooms
+======================
+
+Copywrite 2007 Donald E. Llopis (machinezilla@gmail.com)
+
+a Python+Pygame based remake of the Atari arcade version of Millipede.
+
+
+Controls:
+=========
+
+Move Player - Arrow Keys
+Fire Missle - Left-Cntrl, Space
+Exit Game   - ESC
+
+
+Credits:
+========
+Code and Graphics: Donald E. Llopis (machinezilla@gmail.com)
+Sound: Ricardo de Luna (kaltar@kaltar.org)
+
+/* vim:set et sw=4 ts=4 et tw=70 sts=4: */
