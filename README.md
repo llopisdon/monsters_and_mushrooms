@@ -16,7 +16,7 @@ Exit Game   - ESC
 
 # Credits:
 
-Code and Graphics: Donald E. Llopis (llopis.don@gmail.com)
+Code and Graphics: Don E. Llopis (llopis.don@gmail.com)
 
 Sound: Ricardo de Luna (kaltar@kaltar.org)
 
